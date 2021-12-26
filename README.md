@@ -5,4 +5,4 @@
 
 ![Screenshot of website](./assets/images/calendar.png)
 
-### Deployed website: https://derpvoltz.github.io/calender/
+### Deployed website: https://derpvoltz.github.io/calendar/
