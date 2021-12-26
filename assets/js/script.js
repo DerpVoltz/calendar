@@ -6,7 +6,6 @@ function createBlocks() {
     var currentDay = moment().format("dddd, MMMM Do")
     var day = $("<p>" + currentDay + "</p>");
     dayEl.append(day);
-    console.log(currentDay);
     for (i = 9; i < 18; i++) {
         if (i < 12) {
             if(i < moment().hour()) {
